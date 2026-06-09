@@ -18,7 +18,6 @@ A classic, interactive **2-Player Tic-Tac-Toe Game** built using **React.js** an
 
 ## 📁 Project Structure
 
-```text
 Tic_Tac_Toe_game-react/
 ├── public/
 └── src/
