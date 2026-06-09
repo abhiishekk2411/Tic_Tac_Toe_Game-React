@@ -32,3 +32,23 @@ Tic_Tac_Toe_game-react/
     ├── App.jsx
     ├── main.jsx
     └── index.css
+
+## 🎮 How to Play
+
+1. The game starts with **Player X** (Cross).
+2. Players take turns clicking on any empty box.
+3. The first player to get **3 in a row** (horizontally, vertically, or diagonally) wins.
+4. The title updates to announce the winner and the board locks.
+5. Click **Reset Game** to start a new round.
+
+---
+
+## 🙌 Acknowledgements
+
+- Built as a beginner React project to practice hooks (`useState`, `useRef`) and DOM manipulation.
+
+
+## 👤 Author
+
+Abhishek Choudhary
+> ⭐ If you found this helpful, consider giving it a star on GitHub!
