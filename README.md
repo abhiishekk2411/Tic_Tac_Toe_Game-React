@@ -18,6 +18,7 @@ A classic, interactive **2-Player Tic-Tac-Toe Game** built using **React.js** an
 
 ## 📁 Project Structure
 
+```text
 Tic_Tac_Toe_game-react/
 ├── public/
 └── src/
@@ -32,7 +33,7 @@ Tic_Tac_Toe_game-react/
     ├── main.jsx
     └── index.css
 
-## 🎮 How to Play
+# 🎮 How to Play
 
 1. The game starts with **Player X** (Cross).
 2. Players take turns clicking on any empty box.
